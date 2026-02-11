@@ -1,0 +1,24 @@
+{
+  "name": "contact-lookup-system",
+  "version": "1.0.0",
+  "description": "Aim: search for a contact in a contact list, if we find them return contact, if we don't add contact Input: single contact (consisting of name and number) Output: the contact, and whether they were added (added: true) or found (added: false)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flissd1795/Contact-Lookup-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flissd1795/Contact-Lookup-System/issues"
+  },
+  "homepage": "https://github.com/Flissd1795/Contact-Lookup-System#readme",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
+}
